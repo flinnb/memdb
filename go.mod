@@ -3,7 +3,7 @@ module github.com/flinnb/memdb
 go 1.24.1
 
 require (
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.0
 	gotest.tools/gotestsum v1.12.1
 )
 
